@@ -15,7 +15,7 @@
 **Внешний вид** сайта оставляем на Ваше усмотрение.
 
 Пароль для доступа к апи: **Valantis**  
-API доступно по адресу: http://api.valantis.store:40000/  
+API доступно по адресу: https://api.valantis.store:41000/  
 [Документация по работе с **API** прилагается](https://github.com/ValantisJewelry/TestTaskValantis/blob/main/API.md)
 
 
